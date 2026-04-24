@@ -24,14 +24,14 @@ I am a second-year engineering student specializing in Data and AI Engineering. 
 
 ## Currently Working On
 
-- 🎯 **Context-Aware Recommendation System** — Neural Collaborative Filtering with context fusion, built with PyTorch on MovieLens 100K
-- 🔍 **RAG Project** — Retrieval-Augmented Generation pipeline
+-  **Context-Aware Recommendation System** — Neural Collaborative Filtering with context fusion, built with PyTorch on MovieLens 100K
+-  **RAG Project** — Retrieval-Augmented Generation pipeline
 
 ---
 
 ## Featured Project
 
-### [⚽ Football Analytics Platform](https://github.com/yassinechaoui333/football-platform)
+### [ Football Analytics Platform](https://github.com/yassinechaoui333/football-platform)
 End-to-end football data platform with live ingestion, a PostgreSQL Medallion Architecture, FastAPI REST API, and a RAG-based AI chatbot powered by pgvector and Ollama.
 
 ---
